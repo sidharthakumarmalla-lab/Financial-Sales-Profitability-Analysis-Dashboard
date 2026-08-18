@@ -10,11 +10,12 @@ The dashboard enables efficient exploration of financial performance, trends, an
 
 ## Dashboard Preview
 
-### YTD Analysis Report — Detailed Table View
-![YTD Analysis Report - Table View](screenshots/analysis_report_table.png)
-
 ### YTD Analysis Report — KPI & Charts View
 ![YTD Analysis Report - KPI & Charts View](screenshots/analysis_report_charts.png)
+
+
+### YTD Analysis Report — Detailed Table View
+![YTD Analysis Report - Table View](screenshots/analysis_report_table.png)
 
 ---
 
